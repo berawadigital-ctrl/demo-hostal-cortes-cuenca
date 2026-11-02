@@ -1,0 +1,383 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hostal-cortes-cuenca",
+ "source_site": "https://hostalcortes.com/",
+ "source_read_at": "2026-11-02T07:12:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "doble",
+     "individual",
+     "triple"
+    ],
+    "en": [
+     "rooms",
+     "twin",
+     "single",
+     "triple"
+    ],
+    "fr": [
+     "chambres",
+     "double",
+     "individuelle",
+     "triple"
+    ],
+    "de": [
+     "zimmer",
+     "einzel",
+     "dreibett",
+     "doppel"
+    ]
+   },
+   "a": {
+    "es": "Tiene 44 habitaciones: individuales, dobles, de matrimonio y triples, con baño privado, televisión plana y wifi.",
+    "en": "It has 44 rooms: single, twin, double and triple, with private bathroom, flat-screen TV and wifi.",
+    "fr": "Il compte 44 chambres : individuelles, doubles, à grand lit et triples, avec salle de bain privée, télévision à écran plat et wifi.",
+    "de": "Es hat 44 Zimmer: Einzel-, Zweibett-, Doppel- und Dreibettzimmer, mit eigenem Bad, Flachbildfernseher und WLAN."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "Ofrece 44 acogedoras habitaciones"
+    },
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "habitaciones individuales, dobles, de matrimonio y triples"
+    },
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "Las habitaciones disponen de baño privado, televisión plana, WIFI."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     " car",
+     "park "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture"
+    ],
+    "de": [
+     "parkpl",
+     "parken",
+     "auto "
+    ]
+   },
+   "a": {
+    "es": "Sí, el hostal tiene parking privado.",
+    "en": "Yes, the hostal has private parking.",
+    "fr": "Oui, l’hostal dispose d’un parking privé.",
+    "de": "Ja, das Hostal hat einen Privatparkplatz."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "parking privado"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion",
+     "24 horas"
+    ],
+    "en": [
+     "reception",
+     "24 hours"
+    ],
+    "fr": [
+     "reception",
+     "24 h"
+    ],
+    "de": [
+     "rezeption",
+     "rund um die uhr"
+    ]
+   },
+   "a": {
+    "es": "Sí, la recepción está abierta al público 24 horas.",
+    "en": "Yes, reception is open to the public 24 hours.",
+    "fr": "Oui, la réception est ouverte au public 24 heures sur 24.",
+    "de": "Ja, die Rezeption ist rund um die Uhr, 24 Stunden, geöffnet."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/contacta/",
+     "quote": "Hostal Cortés dispone de un servicio de recepción abierto al público 24 horas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay wifi gratuito en todo el hostal.",
+    "en": "Yes, free wifi throughout.",
+    "fr": "Oui, wifi gratuit partout.",
+    "de": "Ja, kostenloses WLAN im ganzen Haus."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "Wifi gratuito en todo el hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "cafeteria",
+   "keys": {
+    "es": [
+     "cafeteria",
+     "desayun",
+     "cafe "
+    ],
+    "en": [
+     "cafe",
+     "breakfast"
+    ],
+    "fr": [
+     "cafeteria",
+     "dejeuner"
+    ],
+    "de": [
+     "cafeteria",
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí, en su cafetería hay una carta variada en un ambiente tranquilo, con ofertas en desayunos.",
+    "en": "Yes, its café offers a varied menu in a quiet setting, with breakfast offers.",
+    "fr": "Oui, sa cafétéria propose une carte variée dans un cadre calme, avec des offres de petit-déjeuner.",
+    "de": "Ja, die Cafeteria bietet eine abwechslungsreiche Karte in ruhiger Atmosphäre, mit Frühstücksangeboten."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "En nuestra cafetería podrá disfrutar de una carta variada en un ambiente tranquilo. Disfrute de nuestras ofertas en desayunos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "equipaje",
+   "keys": {
+    "es": [
+     "equipaje",
+     "maleta"
+    ],
+    "en": [
+     "luggage",
+     "baggage"
+    ],
+    "fr": [
+     "bagage",
+     "valise"
+    ],
+    "de": [
+     "gepack",
+     "koffer"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hostal tiene servicio de guarda equipajes.",
+    "en": "Yes, the hostal offers luggage storage.",
+    "fr": "Oui, l’hostal propose une bagagerie.",
+    "de": "Ja, das Hostal bietet Gepäckaufbewahrung."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "guarda equipajes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "estacion"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there",
+     "station"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement",
+     "gare"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage",
+     "bahnhof"
+    ]
+   },
+   "a": {
+    "es": "Está en la Calle de Ramón y Cajal, 45, 16004 Cuenca, en pleno centro, a escasos minutos del casco histórico y a unos metros de las estaciones de tren y autobús.",
+    "en": "It is at Calle de Ramón y Cajal, 45, 16004 Cuenca, right in the centre, a few minutes from the old town and a few metres from the train and bus stations.",
+    "fr": "Il se trouve Calle de Ramón y Cajal, 45, 16004 Cuenca, en plein centre, à quelques minutes du centre historique et à quelques mètres des gares ferroviaire et routière.",
+    "de": "Es liegt in der Calle de Ramón y Cajal, 45, 16004 Cuenca, mitten im Zentrum, wenige Minuten von der Altstadt und wenige Meter von Bahnhof und Busbahnhof."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/contacta/",
+     "quote": "Calle de Ramón y Cajal, 45, 16004 Cuenca"
+    },
+    {
+     "url": "https://hostalcortes.com/el-hostal/",
+     "quote": "Ubicado estratégicamente a escasos minutos del casco histórico de la ciudad así como de la zona de ocio y gastronomía y a tan solo unos metros de las estaciones de tren y autobús."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "desde cuando",
+     "antiguo",
+     "fundad"
+    ],
+    "en": [
+     "history",
+     "how old",
+     "founded"
+    ],
+    "fr": [
+     "histoire",
+     "depuis quand",
+     "fonde"
+    ],
+    "de": [
+     "geschichte",
+     "seit wann",
+     "gegrund"
+    ]
+   },
+   "a": {
+    "es": "Gabriel Cortés Martínez fundó la posada de Cortés alrededor de 1916. En febrero de 2017, tras unos meses cerrado y reformado, el hostal reabrió pasando a una nueva generación.",
+    "en": "Gabriel Cortés Martínez founded the Cortés inn around 1916. In February 2017, after a few months closed for refurbishment, the hostal reopened under a new generation.",
+    "fr": "Gabriel Cortés Martínez a fondé l’auberge de Cortés vers 1916. En février 2017, après quelques mois de fermeture et de travaux, l’hostal a rouvert avec une nouvelle génération.",
+    "de": "Gabriel Cortés Martínez gründete das Gasthaus Cortés um 1916. Im Februar 2017 öffnete das Hostal nach einigen Monaten Schließung und Umbau wieder, in den Händen einer neuen Generation."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/historia/",
+     "quote": "El Hostal Cortés fue fundado como una posada, la posada de Cortés, por Gabriel Cortés Martínez"
+    },
+    {
+     "url": "https://hostalcortes.com/historia/",
+     "quote": "alrededor de 1916"
+    },
+    {
+     "url": "https://hostalcortes.com/historia/",
+     "quote": "En febrero de 2017, tras unos meses cerrado, el hostal reabre sus puertas, pasando a una nueva generación."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes consultar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al 969 22 04 00 o escribir a info@hostalcortes.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their booking engine (Book button), call 969 22 04 00 or email info@hostalcortes.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le 969 22 04 00 ou écrire à info@hostalcortes.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, 969 22 04 00 anrufen oder an info@hostalcortes.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://hostalcortes.com/contacta/",
+     "quote": "969 22 04 00"
+    },
+    {
+     "url": "https://hostalcortes.com/contacta/",
+     "quote": "info@hostalcortes.com"
+    }
+   ],
+   "cta": true
+  }
+ ]
+}
