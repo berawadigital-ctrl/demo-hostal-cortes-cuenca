@@ -1,0 +1,396 @@
+{
+ "url": "http://127.0.0.1:45111/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 44 habitaciones: individuales, dobles, de matrimonio y triples, con baño privado, televisión plana y wifi."
+    },
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 44 habitaciones: individuales, dobles, de matrimonio y triples, con baño privado, televisión plana y wifi."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, el hostal tiene parking privado."
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, la recepción está abierta al público 24 horas."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay wifi gratuito en todo el hostal."
+    },
+    {
+     "q": "¿Hay cafetería?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, en su cafetería hay una carta variada en un ambiente tranquilo, con ofertas en desayunos."
+    },
+    {
+     "q": "¿Puedo dejar el equipaje?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el hostal tiene servicio de guarda equipajes."
+    },
+    {
+     "q": "¿Dónde está el hostal?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Calle de Ramón y Cajal, 45, 16004 Cuenca, en pleno centro, a escasos minutos del casco histórico y a unos metros de las estacione"
+    },
+    {
+     "q": "¿Está cerca de la estación?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Calle de Ramón y Cajal, 45, 16004 Cuenca, en pleno centro, a escasos minutos del casco histórico y a unos metros de las estacione"
+    },
+    {
+     "q": "¿Desde cuándo existe el hostal?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Gabriel Cortés Martínez fundó la posada de Cortés alrededor de 1916. En febrero de 2017, tras unos meses cerrado y reformado, el hostal reab"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes consultar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al 969 22 04 00 o escribir a info@hostalcortes.c"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes consultar disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al 969 22 04 00 o escribir a info@hostalcortes.c"
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 969 22 04 00 · info@hostalcortes.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 969 22 04 00 · info@hostalcortes.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay parking?",
+    "¿Hay recepción 24 horas?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 44 rooms: single, twin, double and triple, with private bathroom, flat-screen TV and wifi."
+    },
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 44 rooms: single, twin, double and triple, with private bathroom, flat-screen TV and wifi."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, the hostal has private parking."
+    },
+    {
+     "q": "Is reception open 24 hours?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, reception is open to the public 24 hours."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, free wifi throughout."
+    },
+    {
+     "q": "Is there a café?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, its café offers a varied menu in a quiet setting, with breakfast offers."
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, the hostal offers luggage storage."
+    },
+    {
+     "q": "Where is the hostal?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle de Ramón y Cajal, 45, 16004 Cuenca, right in the centre, a few minutes from the old town and a few metres from the train and "
+    },
+    {
+     "q": "Is it near the station?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle de Ramón y Cajal, 45, 16004 Cuenca, right in the centre, a few minutes from the old town and a few metres from the train and "
+    },
+    {
+     "q": "How old is the hostal?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Gabriel Cortés Martínez founded the Cortés inn around 1916. In February 2017, after a few months closed for refurbishment, the hostal reopen"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call 969 22 04 00 or email info@hostalcortes.com. This assistant "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call 969 22 04 00 or email info@hostalcortes.com. This assistant "
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 969 22 04 00 · info@hostalcortes.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 969 22 04 00 · info@hostalcortes.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there parking?",
+    "Is reception open 24 hours?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 44 chambres : individuelles, doubles, à grand lit et triples, avec salle de bain privée, télévision à écran plat et wifi."
+    },
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 44 chambres : individuelles, doubles, à grand lit et triples, avec salle de bain privée, télévision à écran plat et wifi."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, l’hostal dispose d’un parking privé."
+    },
+    {
+     "q": "La réception est-elle ouverte 24 h/24 ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, la réception est ouverte au public 24 heures sur 24."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit partout."
+    },
+    {
+     "q": "Y a-t-il une cafétéria ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, sa cafétéria propose une carte variée dans un cadre calme, avec des offres de petit-déjeuner."
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, l’hostal propose une bagagerie."
+    },
+    {
+     "q": "Où se trouve l’hostal ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Calle de Ramón y Cajal, 45, 16004 Cuenca, en plein centre, à quelques minutes du centre historique et à quelques mètres des gar"
+    },
+    {
+     "q": "Est-ce près de la gare ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Calle de Ramón y Cajal, 45, 16004 Cuenca, en plein centre, à quelques minutes du centre historique et à quelques mètres des gar"
+    },
+    {
+     "q": "Depuis quand existe l’hostal ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Gabriel Cortés Martínez a fondé l’auberge de Cortés vers 1916. En février 2017, après quelques mois de fermeture et de travaux, l’hostal a r"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le 969 22 04 00 ou écrire à info"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le 969 22 04 00 ou écrire à info"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 969 22 04 00 · info@hostalcortes.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 969 22 04 00 · info@hostalcortes.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un parking ?",
+    "La réception est-elle ouverte 24 h/24 ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 44 Zimmer: Einzel-, Zweibett-, Doppel- und Dreibettzimmer, mit eigenem Bad, Flachbildfernseher und WLAN."
+    },
+    {
+     "q": "Wie viele Zimmer hat das Hostal?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 44 Zimmer: Einzel-, Zweibett-, Doppel- und Dreibettzimmer, mit eigenem Bad, Flachbildfernseher und WLAN."
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja, das Hostal hat einen Privatparkplatz."
+    },
+    {
+     "q": "Ist die Rezeption rund um die Uhr besetzt?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, die Rezeption ist rund um die Uhr, 24 Stunden, geöffnet."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, kostenloses WLAN im ganzen Haus."
+    },
+    {
+     "q": "Gibt es eine Cafeteria?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, die Cafeteria bietet eine abwechslungsreiche Karte in ruhiger Atmosphäre, mit Frühstücksangeboten."
+    },
+    {
+     "q": "Kann ich mein Gepäck abgeben?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, das Hostal bietet Gepäckaufbewahrung."
+    },
+    {
+     "q": "Wo liegt das Hostal?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Es liegt in der Calle de Ramón y Cajal, 45, 16004 Cuenca, mitten im Zentrum, wenige Minuten von der Altstadt und wenige Meter von Bahnhof un"
+    },
+    {
+     "q": "Ist es nahe am Bahnhof?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Es liegt in der Calle de Ramón y Cajal, 45, 16004 Cuenca, mitten im Zentrum, wenige Minuten von der Altstadt und wenige Meter von Bahnhof un"
+    },
+    {
+     "q": "Seit wann gibt es das Hostal?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Gabriel Cortés Martínez gründete das Gasthaus Cortés um 1916. Im Februar 2017 öffnete das Hostal nach einigen Monaten Schließung und Umbau w"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, 969 22 04 00 anrufen oder an info@hostalcort"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, 969 22 04 00 anrufen oder an info@hostalcort"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 969 22 04 00 · info@hostalcortes.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 969 22 04 00 · info@hostalcortes.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es Parkplätze?",
+    "Ist die Rezeption rund um die Uhr besetzt?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

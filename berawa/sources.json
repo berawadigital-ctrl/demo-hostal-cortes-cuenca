@@ -1,0 +1,37 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hostalcortes.com/",
+ "read_at": "2026-11-02T07:12:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hostalcortes.com/contacta/",
+   "sha256": "2d1e15f5f31bc79de795612b08dae1d1ad9503804ba998a2d571c7ba5924325e",
+   "chars": 2419
+  },
+  {
+   "url": "https://hostalcortes.com/el-hostal/",
+   "sha256": "c852e82094612bd575265d082a37389b0b72d167936113ef554a38c2e298d5ce",
+   "chars": 3481
+  },
+  {
+   "url": "https://hostalcortes.com/historia/",
+   "sha256": "b4efaebe7b0b9efdd8eaa54b0501a861886ac035acf13f3c93b0f89662d22acd",
+   "chars": 4743
+  }
+ ],
+ "other_pages_read": [
+  "https://hostalcortes.com",
+  "https://hostalcortes.com/",
+  "https://hostalcortes.com/?ohbe-availability",
+  "https://hostalcortes.com/aviso-legal/",
+  "https://hostalcortes.com/cuenca-te-espera/",
+  "https://hostalcortes.com/habitaciones/",
+  "https://hostalcortes.com/habitaciones/doble/",
+  "https://hostalcortes.com/habitaciones/matrimonio/",
+  "https://hostalcortes.com/habitaciones/sencilla/",
+  "https://hostalcortes.com/habitaciones/triple/",
+  "https://hostalcortes.com/la-ciudad/",
+  "https://hostalcortes.com/la-provincia/"
+ ]
+}
