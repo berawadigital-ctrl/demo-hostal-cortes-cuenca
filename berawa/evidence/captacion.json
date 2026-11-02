@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hostal-cortes-cuenca",
+ "maps": {
+  "fecha": "2026-10-29T14:30:49+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hostal Cortes",
+  "nota": 4.2,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hostal+Cortes/@40.0693983,-2.1354618,17z/data=!3m1!5s0xd5d6765fe3bb55b:0x9af888b5fc424bee!4m9!3m8!1s0xd5d6765fe6cc7e1:0x6a4a6b5ca54eda72!5m2!4m1!1i2!8m2!3d40.0693983!4d-2.1354618!16s%2Fg%2F1tw1g4t5",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T14:30:49+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "HASCOR ALOJAMIENTOS S.L.",
+  "cif": "B16330334",
+  "fuente": "aviso legal de https://hostalcortes.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "un solo establecimiento (sin otros centros en su web; sin brand/operator en OSM)"
+ }
+}
